@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ricardo, tenho 17 anos e sou natural de Curitiba. Concluírei o ensino médio em 2027, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Ricardo, tenho 17 anos e sou natural de Curitiba. Concluírei o ensino médio em 2027, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na"[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
